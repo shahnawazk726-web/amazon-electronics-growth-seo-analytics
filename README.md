@@ -39,7 +39,7 @@ This project simulates a real-world **US Amazon Electronics & Gadgets** e-commer
 
 ## 📊 Dashboard Screenshots
 *(Add your Looker Studio dashboard screenshots here)*
-IMG_20260909_015841.jpg
+https://github.com/shahnawazk726-web/amazon-electronics-growth-seo-analytics/blob/e2498d7b5c9173d7b6f15d789e55cf49ea85780c/IMG_20260909_015841.jpg
 
 ---
 **Author:** Shahnawaz Khan | Digital Marketing & SEO Specialist | Growth Strategy | Content Marketing | Analytics
