@@ -1,4 +1,3 @@
-
 # 🚀 Amazon Electronics Growth & SEO Analytics Dashboard
 
 ## Executive Summary
@@ -38,8 +37,12 @@ This project simulates a real-world **US Amazon Electronics & Gadgets** e-commer
 3. **Build a pre-Q4 SEO content calendar** 60-90 days in advance to capture organic holiday traffic.
 
 ## 📊 Dashboard Screenshots
-*(Add your Looker Studio dashboard screenshots here)*
-https://github.com/shahnawazk726-web/amazon-electronics-growth-seo-analytics/blob/e2498d7b5c9173d7b6f15d789e55cf49ea85780c/IMG_20260909_015841.jpg?raw=true
+
+
+
+![Dashboard Screenshot](https://github.com/shahnawazk726-web/amazon-electronics-growth-seo-analytics/blob/e2498d7b5c9173d7b6f15d789e55cf49ea85780c/IMG_20260909_015841.jpg?raw=true)
+
+
 
 ---
 **Author:** Shahnawaz Khan | Digital Marketing & SEO Specialist | Growth Strategy | Content Marketing | Analytics
